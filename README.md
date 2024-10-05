@@ -2,7 +2,7 @@
 
 ## <span style="font-size: 28px;">📜</span> Overview
 
-This repository contains the **MERN Real-Time Chat Application**, a full-stack app designed for real-time communication using **Socket.IO**. The project is built on the **MERN** stack (MongoDB, Express, React, and Node.js) and provides features like real-time messaging, authentication, and multi-user chatrooms.
+This repository contains the **MERN Real-Time Chat Application**, a full-stack app designed for real-time communication using **Socket.IO**. The project is built on the **MERN** stack (MongoDB, Express, React, and Node.js) and provides features like real-time messaging and authentication.
 
 > **Note:** This project is created for educational purposes to demonstrate real-time chat functionality using the MERN stack.
 
